@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
-> Umur : *18*
+> Name : *Unknown*
+> Nomor : *https://wa.me/6283819082780*
+> Umur : *unknown *
 > Region : *Indonesia 🇲🇨*
-> Hobyy : *Gtw*
-> Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Hobyy : *Unknown*
+> Made in : *Unknown*
+> Nama Asli : *Unknown*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
@@ -3048,7 +3048,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+6285822347348'
+                                    phoneNumber: '+6283819082780'
                                 }
                             }, {
                                 quickReplyButton: {
